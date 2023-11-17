@@ -1,0 +1,5 @@
+USER = tkmb68 (Sidharth Rao),
+ALGORITHM CODE = GA, NAME OF CITY-FILE = AISearchfile021.txt,
+SIZE = 21, TOUR LENGTH = 2746,
+20,1,17,18,10,6,8,2,0,13,5,14,15,11,19,4,12,3,7,16,9,
+NOTE = 
